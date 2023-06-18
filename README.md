@@ -4,12 +4,12 @@ The Dataset is about Superstore Sales of United States and canada for the Year 2
 
 
 # Data Collection: 
-          Collected the Dataset from data.world
+ Collected the Dataset from data.world
 
 
 # Transform : 
-          Removed Duplicate values
-          Extract Year, Month, MonthName from   Orderdate column in Power Query
+ Removed Duplicate values
+ Extract Year, Month, MonthName from   Orderdate column in Power Query
 
 
 # Modelling :
