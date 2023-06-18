@@ -1,7 +1,7 @@
 
 # Cleaning-Modelling-Dashboard
 
-          The Dataset is about Superstore Sales of United States and canada for the Year 2020 to 2023,extracted from data.world                       website,link attach:
+          The Dataset is about Superstore Sales of United States and canada for the Year 2020 to 2023,extracted from data.world           website,link attach:
           https://data.world/vizwiz/superstore-2023/workspace/file?filename=Sample+-+Superstore.xls
 
 
