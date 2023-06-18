@@ -1,5 +1,5 @@
 
-#Cleaning-Modelling-Dashboard
+# Cleaning-Modelling-Dashboard
 
 The Dataset is about Superstore Sales of United States and canada for the Year 2020 to 2023,extracted from data.world website,link attach:
 https://data.world/vizwiz/superstore-2023/workspace/file?filename=Sample+-+Superstore.xls
@@ -14,4 +14,4 @@ https://data.world/vizwiz/superstore-2023/workspace/file?filename=Sample+-+Super
           Extract Year, Month, MonthName from   Orderdate column in Power Query
 
 # Modelling :
-![Logo](https://github.com/Archana271/ExcelDataAnalysis-Cleaning-Modelling-Dashboard/blob/main/Model.png)
+![Logo](https://imageconvert.org/uploads/Model1687095728.jpg)
