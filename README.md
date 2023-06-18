@@ -17,5 +17,5 @@ The Dataset is about Superstore Sales of United States and canada for the Year 2
 
 
 # Excel Profit Dashboard on Sales :
-  https://1drv.ms/x/s!Airb4q2FST23gRi5ExO_AhXYa32N
+ https://onedrive.live.com/view.aspx?resid=B73D4985ADE2DB2A%21152&authkey=!ALkTE78CFdhrfY0
           
