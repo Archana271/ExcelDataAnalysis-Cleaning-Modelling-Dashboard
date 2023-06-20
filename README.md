@@ -13,9 +13,8 @@ The Dataset is about Superstore Sales of United States and canada for the Year 2
 
 
 # Modelling :
-![Logo]
-https://github.com/Archana271/ExcelDataAnalysis-Cleaning-Modelling-Dashboard/blob/main/Model1687231479.jpg
 
+![Model](https://github.com/Archana271/ExcelDataAnalysis-Cleaning-Modelling-Dashboard/assets/95703240/70476211-0000-4c28-a618-ebbc4de178d8)
 
 # Excel Profit Dashboard on Sales :
  https://onedrive.live.com/view.aspx?resid=B73D4985ADE2DB2A%21152&authkey=!ALkTE78CFdhrfY0
